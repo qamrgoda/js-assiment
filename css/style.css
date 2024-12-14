@@ -1,0 +1,30 @@
+.book{
+
+
+    min-height: 100vh;
+    background-color: #1090a1;
+}
+h1{
+   
+        font-size: 50px;
+        font-family: "Pacifico";
+        color: #352831;
+        isolation: isolate;
+    text-shadow:rgb(173, 162, 160) 3px 3px;
+}
+h2{
+   
+        font-family: "Righteous", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 25px;
+     
+      }
+.btn{
+    background-color: #1090a1;
+    color: white;
+}
+.btn:hover{
+    background-color: #1090a1;
+    color: white
+}
